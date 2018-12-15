@@ -9,6 +9,9 @@ Nanpy Library
 Steps to Start the Project :
 
 1-Connect Raspberry Pi To 5v Power Source
+
 2-Connect Raspberry Pi To VNC Viewer Using Raspberrypi Address
+
 3-Run The Code on The Raspberry Pi
+
 4-Start Testing the Project ( Put Images In Front Of The Camera)
